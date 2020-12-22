@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#5f4339</color>
+    <color name="colorPrimary">#8d6e63</color>
+    <color name="colorAccent">#be9c91</color>
+    <color name="colorbg">#f7f6f2</color>
+    <color name="colorstrokegray">#5f4339</color>
+    <color name="gradient_end_color">#8d6e63</color>
+    <color name="color_app_bar_text">#be9c91</color>
+    <color name="color_tab_text">#a7c0cd</color>
+    <color name="colorwhite">#ffffff</color>
+</resources>
